@@ -1,0 +1,4 @@
+<resources>
+    <string name="navbar_recognize_language">Recognizer</string>
+    <string name="navbar_history">History</string>
+</resources>

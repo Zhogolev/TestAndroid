@@ -1,4 +1,10 @@
+compileSdkVersion "android-MNC"
+buildToolsVersion "21.1.1"
 
+defaultConfig {
+    minSdkVersion "android-MNC"
+    targetSdkVersion "android-MNC"
+}
 
 
 
