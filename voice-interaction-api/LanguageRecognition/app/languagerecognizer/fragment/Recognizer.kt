@@ -38,9 +38,6 @@ class Recognizer : Fragment() {
 
         view.button_recognizer.setOnClickListener {
 
-            val HttpClient = DefaultHttpClient()
-
-
             Log.d("asd", url)
             val connection = URL(url)
                 .openConnection() as HttpURLConnection

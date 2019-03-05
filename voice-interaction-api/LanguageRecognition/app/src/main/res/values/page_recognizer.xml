@@ -1,0 +1,3 @@
+<resources>
+    <string name="recognizer_hint">Please input text to recognize</string>
+</resources>
